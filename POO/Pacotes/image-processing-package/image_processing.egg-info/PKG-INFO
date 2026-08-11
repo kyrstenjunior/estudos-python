@@ -1,3 +1,22 @@
+Metadata-Version: 2.4
+Name: image_processing
+Version: 0.0.1
+Summary: Image processing package using Skimage
+Home-page: https://github.com/kyrstenjunior
+Author: Kyrsten Júnior
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: scikit-image>=0.16.1
+Dynamic: author
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
 # image_processing
 
 Description.
@@ -29,7 +48,7 @@ file1_name.my_function()
 ```
 
 ## Author
-Kyrsten Júnior
+Kyrsten JÃºnior
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
